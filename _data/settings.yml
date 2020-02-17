@@ -1,5 +1,5 @@
 audit_header: false
-title: Central Coast Real Estate Video Blog with Sylvia Lunsford
+title: Pismo Coast Real Estate Video Blog with Sylvia Lunsford
 description: Our mission at Outland and Associates is to be your best resource for Central Coast real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Outland and Associates, your professional Pismo Beach Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,14 +11,14 @@ custom_links_new_tab:
     url:
 
 client:
-  name: Sylvia Lunsford
+  name: Sylvia Lunsford REALTOR®
   title: 
-  license_number: 'DRE#: 01232890'
+  license_number: 'DRE# 01232890'
   about_markdown: |
         For over two decades, Sylvia Lunsford has succeeded at successfully completing complex real estate transactions and satisfying clients due to her wide-ranging knowledge, diligent work ethic and collaborative approach. A dynamic Realtor® with a broad range of strengths makes her a standout leader is the Central Coast real estate market with in-depth knowledge. Sylvia is one of those rare individuals who can establish rapport, build trust and create lasting partnerships with her clients with ease, and is inherently attentive to the goals and desires of her clients.
 
         In 2009 Sylvia gained certification as a Distressed Property Expert (CDPE), and in 2010 she became a Certified Luxury Marketing Specialist (CLHMS), a designation requiring verified property sales in the top 10% of the market. With specialized training, substantial experience and formal certification from luxury to distressed real estate, Sylvia tirelessly assists sellers and buyers at every point along the spectrum.
-  brand: Outland and Associates
+  brand: Outland and Associates Real Estate
   brokerage: Central Coast
   market: Central Coast
   address: 
@@ -32,7 +32,7 @@ client:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
+  second_CTA_text: Find Homes in Your Area
   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
@@ -45,8 +45,8 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Central Coast Home?"
-    CTA_text2: "Learn more about available homes in your area"
-    CTA_link_text2: "Search the MLS"
+    CTA_text2: "Learn more about available homes in your area."
+    CTA_link_text2: "Find Homes in Your Area"
     CTA_url2: /homesearch/
 
 lender:
@@ -88,7 +88,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Central Coast Real Estate Video Blog
+  hero_text: Pismo Coast Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
