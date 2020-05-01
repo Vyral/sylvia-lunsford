@@ -96,7 +96,7 @@ images:
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
+sh
 site_colors:
   brand_color: '#65A604'
   theme_color: '#225574'
@@ -108,7 +108,7 @@ header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
