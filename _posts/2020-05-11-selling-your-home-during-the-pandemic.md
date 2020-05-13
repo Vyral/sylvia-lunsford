@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selling Your Home During the Pandemic
-date: 2020-05-11 20:06:33
+date: 2020-05-11 20:06:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/sylvia-lunsford-can-you-still-sell-your-home-during-the-coronavirus-yt.jpg
-youtube_code: 'https://youtu.be/CGVebo38Mgo'
+youtube_code: bGwd_84an70
 ---
 
 {% include youtube.html %}
