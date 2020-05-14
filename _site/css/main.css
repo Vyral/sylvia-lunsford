@@ -1444,9 +1444,11 @@ html[xmlns] .flexslider .slides {
 
 .catbloc li {
   font-size: 20px;
-  color: #92afd9;
+  color: #018182;
   list-style: none;
   padding-left: 30px; }
+  .catbloc li:hover {
+    color: #225574; }
 
 label.tree-toggle {
   cursor: pointer; }
