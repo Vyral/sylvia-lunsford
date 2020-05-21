@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/sylvia-lunsford-can-you-still-sell-your-home-during-the-coronavirus-yt.jpg
-youtube_code: bGwd_84an70
+youtube_code: 0lQ6YOh0AgI
 ---
 
 {% include youtube.html %}
