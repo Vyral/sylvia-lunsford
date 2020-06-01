@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/D3v8QLh7_WA'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how lending guidelines have changed during the pandemic.</em></p>
+
 Underwriting guidelines have changed since the COVID-19 lockdown began, but how?
 
 **Lenders are dropping programs that previously allowed borrowers to both qualify with a much lower FICO score and put down a smaller down payment.** They’re now raising the minimum FICO score borrowers need to qualify. For example, Chase Bank recently raised their minimum qualifying score to 720 and now require a down payment of at least 20%.&nbsp;
